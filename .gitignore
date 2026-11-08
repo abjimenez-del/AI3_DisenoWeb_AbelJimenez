@@ -1,0 +1,12 @@
+# Entorno y credenciales
+.env
+*.env
+# Logs
+logs/*.log
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Dependencias
+vendor/
